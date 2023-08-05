@@ -1,4 +1,6 @@
 # maze_algorithm
-Maze solver 
+## Maze solver 
 
-<iframe width="560" height="315" src="pygame window 2023-08-05 17-59-14.mp4" frameborder="0" allowfullscreen></iframe>
+
+https://github.com/Xlt3h/maze_algorithm/assets/49242067/967bb9f4-1d6a-4192-acb1-8e18bb8c12d6
+
